@@ -14,7 +14,7 @@ To make sure about regular commits, I first uploaded the initial code parts, the
 
 This helped me to show consistent progress, as each plan contained all previous work plus the newly implemented features too.
 
-Finally, Plan 6 became the complete, ready-to-run project and it shows the full evolution of my work from start to finish.
+Finally, Plan 6 became the complete and ready-to-run project and it shows the full evolution of my work from start to finish.
 
 # Features of this Project
 
@@ -124,13 +124,23 @@ LangGraph workflow integration (state, nodes, flow)
 
 PDF export, testing and final documentation
 
+# Screenshots of the Output Example Report of the Project
+
+1) <img width="579" height="759" alt="image" src="https://github.com/user-attachments/assets/97d2710e-73f7-4b4e-8c76-46f79e6d0482" />
+
+2) <img width="532" height="804" alt="image" src="https://github.com/user-attachments/assets/5e195c70-f02c-4cef-90e1-9990ac931065" />
+
+3) <img width="532" height="804" alt="image" src="https://github.com/user-attachments/assets/ca892b77-e5e5-4853-a283-aa59a632b694" />
+
+4) <img width="539" height="360" alt="image" src="https://github.com/user-attachments/assets/65b65c89-0054-4036-b035-6abef91426d9" />
+
 # Conclusion
 
 When I got this idea about this Capstone Project, then I had planned to build a complete multi-step medical processing system using LangGraph which can combine text summarization, medical information extraction, retrieval-augmented generation, structured outputs and final report creation.
 
 After completing the project, I believe I have fully achieved the goals I set in the plan.
 
-I followed each planned step: from the environment setup, model design, prompt engineering, RAG integration, workflow graph creation, multi-agent interview system, to final PDF report generation.
+I followed each planned step: from the environment setup, model design, prompt engineering, RAG integration, workflow graph creation, multi-agent interview system to final PDF report generation.
 
 So this final system is able to take a medical query, generate analyst personas, run interviews with web-verified medical information, extract structured fields, summarize content, retrieve definitions and produce a complete medical report in a clean and downloadable format.
 
