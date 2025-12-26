@@ -1,4 +1,4 @@
-# Medical-Research-Agent
+# AI-Powered Medical Research Agent
 
 An AI-powered Medical Research Agent that turns complex medical text into clear insights. 
 
